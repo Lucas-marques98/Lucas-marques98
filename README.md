@@ -25,7 +25,7 @@
 </div>
 </br>
 
-## Apaixonado por Tecnologia, e estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
+## Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
 
 </br>
 
