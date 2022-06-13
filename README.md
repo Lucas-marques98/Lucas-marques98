@@ -1,6 +1,6 @@
 ### Olá me Chamo Lucas Rodrigues Marques ✨✌🌟
 
-### Tenho 24 anos e sou Aluno de ADS - Analise e Desenvolvimento de Sistemas (Atualmente no 2° periodo) 📚✔👍
+### Tenho 24 anos e sou Aluno de ADS - Analise e Desenvolvimento de Sistemas 📚✔👍
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmarques676/)
