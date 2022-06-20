@@ -8,7 +8,7 @@
 [![Typing SVG](https://pt.bloggif.com/tmp/5a0b40b37673b9f3bb58d8c0eff78a12/text.gif?1655695193)](https://github.com/Lucas-marques98/)
   </div>
 
-### Para entrar em contato comigo - 👇
+### Para entrar em contato comigo 👇
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmarques676/)
