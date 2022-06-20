@@ -16,7 +16,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@LCSMARQUES)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511989451409)
 
-![Lucas Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-marques98&show_icons=true&theme=cobalt)
+ <a href="https://github.com/Lucas-marques98">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
 
 ## O que eu estou estudando 👇📚
 
@@ -36,10 +38,8 @@
 ## Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
 
 </br>
+<div id="badges"  align="center">
 
-## Plataformas de Streaming que utilizo no meu dia dia:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lucas-marques98&bg_color=4444444&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
-[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]()
-[![AmazonPrimeVideo](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)]()
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+</div>
