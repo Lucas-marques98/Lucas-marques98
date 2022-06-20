@@ -6,6 +6,7 @@
   <div id="badges"  align="center">
 
 [![Typing SVG](https://pt.bloggif.com/tmp/5a0b40b37673b9f3bb58d8c0eff78a12/text.gif?1655695193)](https://github.com/Lucas-marques98/)
+
   </div>
 
 ### Para entrar em contato comigo 👇
