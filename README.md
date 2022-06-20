@@ -1,6 +1,10 @@
-### Olá me Chamo Lucas Rodrigues Marques ✨✌🌟
-
-### Tenho 24 anos e sou Aluno de ADS - Analise e Desenvolvimento de Sistemas 📚✔👍
+<div style="display: inline_block"></br>
+<img align="center" alt="Hi, Welcome " src="https://camo.githubusercontent.com/35e6d0d643810ba0a930cf7f3f19f62b7a81d1c11d86d646b98d42f836b3fe38/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d363343463135266c696e65733d4869212b77656c636f6d652b746f2b6d792b70726f66696c65
+"></br>
+<img align="center" alt="Hi, Welcome " src="teexto.gif
+">
+</div>
+</br>
 
 ### Para entrar em contato comigo  - 👇 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
@@ -11,7 +15,7 @@
 
 ![Lucas Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-marques98&show_icons=true&theme=cobalt)
 
-## Linguagens que eu utilizo:
+## O que eu estou estudando 👇📚
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
