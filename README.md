@@ -16,10 +16,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marques-8b040b169/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@LCSMARQUES)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511989451409)
-<div>
+
+<div id="badges" align="center">
  <a href="https://github.com/Lucas-marques98">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
+  </div>
 
 ## O que eu estou estudando 👇📚
 
