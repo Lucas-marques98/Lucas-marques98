@@ -19,7 +19,7 @@
 
 <div id="badges" align="center">
  <a href="https://github.com/Lucas-marques98">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Lucas-marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
   </div>
 
