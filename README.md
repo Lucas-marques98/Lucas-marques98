@@ -1,12 +1,15 @@
-<div style="display: inline_block"></br>
-<img align="center" alt="Hi, Welcome " src="https://camo.githubusercontent.com/35e6d0d643810ba0a930cf7f3f19f62b7a81d1c11d86d646b98d42f836b3fe38/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d363343463135266c696e65733d4869212b77656c636f6d652b746f2b6d792b70726f66696c65
-"></br>
-<img align="center" alt="Hi, Welcome " src="teexto.gif
-">
-</div>
-</br>
+<div id="badges"  align="center">
 
-### Para entrar em contato comigo  - 👇 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi!+welcome+to+my+profile)](https://git.io/typing-svg)
+
+  </div> 
+  <div id="badges"  align="center">
+
+[![Typing SVG](https://pt.bloggif.com/tmp/5a0b40b37673b9f3bb58d8c0eff78a12/text.gif?1655695193)](https://github.com/Lucas-marques98/)
+  </div>
+
+### Para entrar em contato comigo - 👇
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmarques676/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marques-8b040b169/)
