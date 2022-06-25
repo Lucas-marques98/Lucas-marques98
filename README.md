@@ -9,7 +9,6 @@
 
   </div>
 
- <source src="Chefin- Deus é o Meu Guia.m4a">
 ### Para entrar em contato comigo 👇
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
