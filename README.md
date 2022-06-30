@@ -1,6 +1,6 @@
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi!+welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&size=30&duration=5003&color=F7641A&background=77FFFF00&center=falso&vCenter=falso&lines=Hi!+Welcome+To+My+Profile+%F0%9F%A4%99)](https://git.io/typing-svg)
 
   </div> 
   <div id="badges"  align="center">
