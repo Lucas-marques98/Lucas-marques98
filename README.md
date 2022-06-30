@@ -1,11 +1,11 @@
 <div id="badges"  align="center">
 
-[![Typing SVG](https://pt.bloggif.com/tmp/fb4dd50b4dce98bec5c73ae649231384/text.gif?1656625444)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Hi!+welcome+to+my+profile)](https://git.io/typing-svg)
 
   </div> 
   <div id="badges"  align="center">
 
-[![Typing SVG](https://pt.bloggif.com/tmp/5a0b40b37673b9f3bb58d8c0eff78a12/text.gif?1655695193)](https://github.com/Lucas-marques98/)
+[![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/)
 
   </div>
 
