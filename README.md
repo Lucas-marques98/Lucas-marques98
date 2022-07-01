@@ -37,6 +37,10 @@
 </div>
 </br>
 
+  <div align="center">
+  
+  ![Snake animation](https://github.com/Lucas-marques98/Lucas-marques98/blob/output/github-contribution-grid-snake.svg)
+  </div>
 ## Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
 
 </br>
