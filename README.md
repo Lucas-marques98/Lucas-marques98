@@ -9,7 +9,7 @@
 
   </div>
 
-### ☯ Para entrar em contato comigo 👇
+### 🟡 Para entrar em contato comigo 👇
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmarques676/)
@@ -22,7 +22,7 @@
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
   </div>
 
-## ☮ Tecnologias 👇📚
+### 🟢 Tecnologias 👇📚
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -42,7 +42,7 @@
   ![Snake animation](https://github.com/Lucas-marques98/Lucas-marques98/blob/output/github-contribution-grid-snake.svg)
   </div>
 
-## ☪ Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
+### 🔵 Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
 
 </br>
 <div id="badges"  align="center">
