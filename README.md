@@ -2,15 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&size=30&duration=5003&color=F7641A&background=77FFFF00&center=falso&vCenter=falso&lines=Hi!+Welcome+To+My+Profile+%F0%9F%A4%99)](https://git.io/typing-svg)
 
-  </div> 
-  <div id="badges"  align="center">
-
-<img align="left" height="200px" width="500px" src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png"/>
-
 [![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/)
 
   
-<h1 align="center" > Para entrar em contato comigo 👇
+
+### Para entrar em contato comigo
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
@@ -22,14 +18,14 @@
 
 <div id="badges align="center">
  <a href="https://github.com/Lucas-marques98">
-  <img height="177em" align="left" src="https://github-readme-stats.vercel.app/api?username=Lucas-marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="177em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
+  <img height="177em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="177em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
   
   </div>
 
 </br>
 
-### My Skills  👇🍀
+### O que eu estou estudando 👇📚🌟
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
