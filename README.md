@@ -5,21 +5,26 @@
   </div> 
   <div id="badges"  align="center">
 
+<img align="left" height="160" width="300" src="https://img2.gratispng.com/20180228/rjw/kisspng-computer-case-computer-keyboard-laptop-vector-computer-office-5a96ff2c3dc379.935061071519845164253.jpg"/>
+
 [![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/)
 
-  </div>
+  
+<h1 align="center" > Para entrar em contato comigo 👇
 
-### 🟡 Para entrar em contato comigo 👇
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmarques676/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marques-8b040b169/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@LCSMARQUES) 
 
+
+
 <div id="badges" align="center">
  <a href="https://github.com/Lucas-marques98">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=Lucas-marques98&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-marques98&layout=compact&theme=solarized-dark" alt="Most Used Lnguages Lucas-Marques98" />
+  
   </div>
 
 ### 🟢 Tecnologias 👇📚
