@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&size=30&duration=5003&color=F7641A&background=77FFFF00&center=falso&vCenter=falso&lines=Hi!+Welcome+To+My+Profile+%F0%9F%A4%99)](https://git.io/typing-svg)
 
-[![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/)
+[![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/) 
 
-  
+<a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png" alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
 
 ### Para entrar em contato comigo 👇
 
@@ -45,7 +45,7 @@
   ![Snake animation](https://github.com/Lucas-marques98/Lucas-marques98/blob/output/github-contribution-grid-snake.svg)
   </div>
 
-### 🔵 Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
+### Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
 
 </br>
 <div id="badges"  align="center">
