@@ -8,11 +8,12 @@
 
 <a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png" align="left" height="250px" alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
 
-<img align="right" height="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJXSgP2N0zlXEagPBbuXZyZtuiZQQSu6FsqQrXgRka6h3DbSLzG4JzIL-YzXe7ixzK8E&usqp=CAU">
+<img align="right" height="180px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJXSgP2N0zlXEagPBbuXZyZtuiZQQSu6FsqQrXgRka6h3DbSLzG4JzIL-YzXe7ixzK8E&usqp=CAU">
 
 </div>
 
 </br>
+
 
 <div >
 <h5>
