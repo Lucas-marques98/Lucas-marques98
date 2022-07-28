@@ -75,7 +75,7 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 
 <div id="badges" align"center">
 
-<img src="http://1.bp.blogspot.com/-xgDMlMJtajo/UPg5sFSYovI/AAAAAAAABZ0/yYVUXNZdo54/s1600/foco12.jpg" width="1000px" height="300px" align="center">
+<img src="http://1.bp.blogspot.com/-xgDMlMJtajo/UPg5sFSYovI/AAAAAAAABZ0/yYVUXNZdo54/s1600/foco12.jpg" width="100%" height="300px" align="center">
 
 </div>
 
