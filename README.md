@@ -74,6 +74,14 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 </div>
 </br>
 
+<div id="badges" align"center">
+
+<img src="http://1.bp.blogspot.com/-xgDMlMJtajo/UPg5sFSYovI/AAAAAAAABZ0/yYVUXNZdo54/s1600/foco12.jpg" width="500px" align="center">
+
+</div>
+
+
+
   <div align="center">
   
   ![Snake animation](https://github.com/Lucas-marques98/Lucas-marques98/blob/output/github-contribution-grid-snake.svg)
