@@ -4,7 +4,9 @@
 
 [![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/) 
 
-<div >
+</div>
+
+<div id="badges" align"center">
 <h5>
 Olá 🤝🏻, sejam bem vindos ao meu perfil, estudo programação a 6 meses, todos os dias procuro aprender algo novo, sempre disposto a novos desafios, quero muito conseguir minha primeira oportunidade como Dev, meu foco inicial é entrar em algum estágio ou conseguir alguma vaga Junior tanto no front end ou back end , para eu ir evoluindo tanto pessoal e profissional, conforme ir passando os dias eu possa sempre está atualizado sobre tudo.
 Particular sobre mim 👇🏻
@@ -13,18 +15,15 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 
 </div>
 
- <div>
-
-<a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png" align="left" height="239" alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
-<img align="right" height="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJXSgP2N0zlXEagPBbuXZyZtuiZQQSu6FsqQrXgRka6h3DbSLzG4JzIL-YzXe7ixzK8E&usqp=CAU">   
- 
+<div id="badges" align="center">
+<a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png"  alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
+  
 </div>
  
  
- 
- 
- 
- 
+ <div id="badges" align="center">
+  
+  
 ### Para entrar em contato comigo 👇🏻
 
 
@@ -33,6 +32,7 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marques-8b040b169/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@LCSMARQUES) 
 
+</div>
 
 
 <div id="badges align="center">
@@ -44,9 +44,17 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 
 </br>
 
+
+<div id="badges" align="center">
+
+
 ### Tecnologias 🛠👇🏻
 
-<div style="display: inline_block"></br>
+
+</div>
+
+
+<div id="badges" align="center" style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
