@@ -4,29 +4,27 @@
 
 [![Typing SVG](http://i.picasion.com/gl/92/g1kC.gif)](https://github.com/Lucas-marques98/) 
 
-<div  >
-
-<a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png" align="left" height="250px" alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
-
-<img align="right" height="180px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJXSgP2N0zlXEagPBbuXZyZtuiZQQSu6FsqQrXgRka6h3DbSLzG4JzIL-YzXe7ixzK8E&usqp=CAU">
-
-</div>
-
-</br>
-
-
 <div >
 <h5>
 Olá 🤝🏻, sejam bem vindos ao meu perfil, estudo programação a 6 meses, todos os dias procuro aprender algo novo, sempre disposto a novos desafios, quero muito conseguir minha primeira oportunidade como Dev, meu foco inicial é entrar em algum estágio ou conseguir alguma vaga Junior tanto no front end ou back end , para eu ir evoluindo tanto pessoal e profissional, conforme ir passando os dias eu possa sempre está atualizado sobre tudo.
-
 Particular sobre mim 👇🏻
-
 Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometido com meus objetivos e sempre apto a novos desafios. 📚💻🖱
 </h5>
 
 </div>
 
+ <div>
 
+<a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png" align="left" height="239" alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
+<img align="right" height="166" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmJXSgP2N0zlXEagPBbuXZyZtuiZQQSu6FsqQrXgRka6h3DbSLzG4JzIL-YzXe7ixzK8E&usqp=CAU">   
+ 
+</div>
+ 
+ 
+ 
+ 
+ 
+ 
 ### Para entrar em contato comigo 👇🏻
 
 
@@ -46,7 +44,7 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 
 </br>
 
-### O que estou estudando 👇📚🌟
+### Tecnologias 🛠👇🏻
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -73,8 +71,7 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
   ![Snake animation](https://github.com/Lucas-marques98/Lucas-marques98/blob/output/github-contribution-grid-snake.svg)
   </div>
 
-### Apaixonado por Tecnologia, estou disposto a Aprender dia Após dia, sempre inovando e adquirindo conhecimentos novos. 🍀📚🌟
-
+                     
 </br>
 <div id="badges"  align="center">
 
