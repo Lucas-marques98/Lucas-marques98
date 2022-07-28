@@ -6,7 +6,23 @@
 
 <a href="https://github.com/Lucas-marques98"><img src="https://i.ibb.co/Dkc5Bc6/kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344.png" alt="kisspng-laptop-doodle-icon-business-office-5aa36aa353f8f5-847990261520659107344" border="0"></a>
 
-### Para entrar em contato comigo 👇
+<h5>
+
+Olá 🤝🏻, sejam bem vindos ao meu perfil, estudo programação a 6 meses, todos os dias procuro aprender algo novo, sempre disposto a novos desafios, quero muito conseguir minha primeira oportunidade como Dev, meu foco inicial é entrar em algum estágio ou conseguir alguma vaga Junior tanto no front end ou back end , para eu ir evoluindo tanto pessoal e profissional, conforme ir passando os dias eu possa sempre está atualizado sobre tudo.
+
+Minhas experiências até aqui 👇🏻
+
+Experiência com promotoria de vendas de alimentos.
+Comunicação com o público.
+trabalho autônomo, auxiliar de serviços gerais.
+
+Particular sobre mim 👇🏻
+
+Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometido com meus objetivos e sempre apto a novos desafios. 📚💻🖱
+
+</h5>
+
+### Para entrar em contato comigo 👇🏻
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lucas.19982017/)
