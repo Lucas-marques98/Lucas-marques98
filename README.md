@@ -8,8 +8,7 @@
 
 <div id="badges" align"center">
 <h5>
-Olá 🤝🏻, sejam bem vindos ao meu perfil, estudo programação a 6 meses, todos os dias procuro aprender algo novo, sempre disposto a novos desafios, quero muito conseguir minha primeira oportunidade como Dev, meu foco inicial é entrar em algum estágio ou conseguir alguma vaga Junior tanto no front end ou back end , para eu ir evoluindo tanto pessoal e profissional, conforme ir passando os dias eu possa sempre está atualizado sobre tudo.
-Particular sobre mim 👇🏻
+Olá 🤝🏻, sejam bem vindos ao meu perfil, estudo programação a 6 meses, todos os dias procuro aprender algo novo, sempre disposto a novos desafios, quero muito conseguir minha primeira oportunidade como Dev, meu foco inicial é entrar em algum estágio ou conseguir alguma vaga Junior tanto no front end ou back end , para eu ir evoluindo tanto pessoal e profissional, conforme ir passando os dias eu possa sempre está atualizado sobre tudo.</br>
 Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometido com meus objetivos e sempre apto a novos desafios. 📚💻🖱
 </h5>
 
