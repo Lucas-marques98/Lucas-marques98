@@ -87,6 +87,12 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 </div>
 </br>
 
+<div align="center">
+
+<h3> visits from my profile </h3>
+
+</div>
+
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Lucas-marques98/count.svg" /></p>
 
