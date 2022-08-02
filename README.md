@@ -89,7 +89,7 @@ Tenho boa comunicação, fácil aprendizado, bom trabalho em equipe, comprometid
 
 <div align="center">
 
-<h3> visits from my profile </h3>
+<h3> visits from my profile 👇🏻 </h3></br>
 
 </div>
 
