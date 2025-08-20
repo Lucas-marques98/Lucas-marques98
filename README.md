@@ -18,7 +18,7 @@
 
  
 <div id="badges" align="center">
-<h4>
+<p>
          <p align="center"> import Desenvolvedor from "Lucas-marques98";
 
 class SobreMim extends Desenvolvedor{
@@ -26,12 +26,12 @@ class SobreMim extends Desenvolvedor{
   local = "São paulo, Brasil";
 }
 
-class Skills extends Desenvolvedora {
-  linguagens = ["JavaScript, Python, Java, C#"];
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript, Python, Java, C#",.Net];
   escolas = ["Udemy, Next devs Academy, RockeatSeat"];
   certificados = ["Back End Developer, Front End Developer, Análise e Desenvolvimento de Sistemas"];
 }</p>
-</h4>
+<p/>
 
 </div>
 
